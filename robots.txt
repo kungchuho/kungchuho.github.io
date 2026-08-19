@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kungchuho.github.io/e-and-i/sitemap.xml
